@@ -1,0 +1,27 @@
+# Archivos generados por .NET
+**/bin/
+**/obj/
+**/publish/
+
+# Archivos de Visual Studio
+.vs/
+.vscode/
+
+# Archivos de Git
+.git/
+.gitignore
+
+# Archivos comprimidos
+*.zip
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de configuración local
+*.user
+*.suo
+
+# Archivos Docker
+.dockerignore
+**/publish_limpio/
